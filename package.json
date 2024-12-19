@@ -1,0 +1,17 @@
+{
+  "name": "netsync",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "The_Rasputin64",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "ws": "^8.18.0"
+  }
+}
